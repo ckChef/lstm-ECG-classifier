@@ -22,10 +22,10 @@
 
 ## data set
 
-RCNN 모델을 이용한 부정맥 신호 인식에 관한 [논문](##참고논문)의 저자가 가공해놓은 [데이터셋](##데이터셋) 이용하였음  
+RCNN 모델을 이용한 부정맥 신호 인식에 관한 논문[1]의 저자가 가공해놓은 데이터셋[2] 이용하였음  
 training data 87533개, test data 21891개로 구성
 
-신경망의 구조는 해당 논문을 소개한 [블로그](##신경망-구조-참조-블로그)에서 참고하여 코드로 구현하였음
+신경망의 구조는 해당 논문을 소개한 블로그[3]에서 참고하여 코드로 구현하였음
 
 
 
@@ -46,14 +46,14 @@ training data 87533개, test data 21891개로 구성
 
 # References
 
-## 참고논문
+## [1]참고논문
 
 - [ECG Heartbeat Classification: A Deep Transferable Representation Mohammad Kachuee, Shayan Fazeli, Majid Sarrafzadeh University of California, Los Angeles (UCLA) Los Angeles, USA](https://arxiv.org/abs/1805.00794)
 
-## 데이터셋
+## [2]데이터셋
 
 - [ECG Heartbeat Categorization Dataset Segmented and Preprocessed ECG Signals for Heartbeat Classification](https://www.kaggle.com/shayanfazeli/heartbeat)
 
-## 신경망 구조 참조 블로그
+## [3]신경망 구조 참조 블로그
 
 - [심전도(ECG)에 나타나는 이상 패턴을 자동으로 탐지할 수 있을까?](https://inforience.net/2019/04/28/ecg_classification/)
